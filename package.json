@@ -21,7 +21,7 @@
     "node": ">= 12.17.0"
   },
   "dependencies": {
-    "@sveltejs/adapter-vercel": "^1.0.0-next.0",
+    "@sveltejs/adapter-vercel": "^1.0.5",
     "@sveltejs/app-utils": "^1.0.0-next.0",
     "encoding": "^0.1.13"
   }
